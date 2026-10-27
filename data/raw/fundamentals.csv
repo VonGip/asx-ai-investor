@@ -1,0 +1,13 @@
+Ticker,Company,Price,MarketCap,PE,ROE,DebtToEquity,RevenueGrowth,Sector
+BHP.AX,BHP Group Limited,56.54,287390203904,19.631945,0.24002,50.473,0.183,Basic Materials
+CBA.AX,Commonwealth Bank of Australia,161.47,269997834240,24.879816,0.13857001,0,0.065,Financial Services
+CSL.AX,CSL Limited,193.16,92694454272,0,-0.15835,66.818,0.055,Healthcare
+WBC.AX,Westpac Banking Corporation,36.11,123312308224,17.965174,0.09803,0,0.015,Financial Services
+NAB.AX,National Australia Bank Limited,40.32,123433025536,20.363636,0,0,0.061,Financial Services
+ANZ.AX,ANZ Group Holdings Limited,39.47,118845366272,20.035534,0.082440004,0,-0.021,Financial Services
+WES.AX,Wesfarmers Limited,78.73,89380806656,31.618475,0.33485,159.408,0.038,Consumer Cyclical
+WOW.AX,Woolworths Group Limited,40.64,49645793280,44.65934,0.23339,335.58,0.038,Consumer Defensive
+MQG.AX,Macquarie Group Limited,245.885,93716209664,25.322863,0.112069994,0,0.058,Financial Services
+XRO.AX,Xero Limited,63.89,11252115456,0,0.044060003,39.325,0.408,Technology
+AQN.AX,Aquirian Limited,0.34,36032664,34.0,0.07535,61.535,0.164,Industrials
+PPY.AX,Papyrus Australia Limited,0.008,5191054,0,0,0,0,Consumer Cyclical
